@@ -1,0 +1,7 @@
+com\rockpaperscissor\game\model\Game.class
+com\rockpaperscissor\game\exception\ErrorDetails.class
+com\rockpaperscissor\game\model\Choice.class
+com\rockpaperscissor\game\exception\GlobalExceptionHandler.class
+com\rockpaperscissor\game\service\GameService.class
+com\rockpaperscissor\game\controller\GameController.class
+com\rockpaperscissor\game\RockPaperScissorApplication.class
